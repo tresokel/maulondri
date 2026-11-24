@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.raptors-gradient {
+    background: linear-gradient(135deg, #5E2B97 0%, #3B1564 50%, #CE1141 100%);
+}
+
+.raptors-card-header {
+    border-top: 4px solid #CE1141;
+}
+
+.raptors-stripe {
+    background: linear-gradient(90deg, #5E2B97 0%, #753BBD 35%, #CE1141 70%, #9E0C30 100%);
+}
